@@ -61,6 +61,7 @@ const SectionFeature001 = () => {
                     <Image
                       src="/ameera_malek.jpeg"
                       alt="Ameera Malek"
+                      unoptimized
                       layout="fill"
                       objectFit="cover"
                     />
@@ -101,6 +102,7 @@ const SectionFeature001 = () => {
                     <Image
                       src="/rabiya_amir.jpeg"
                       alt="Rabiya Amir"
+                      unoptimized
                       layout="fill"
                       objectFit="cover"
                     />
@@ -140,6 +142,7 @@ const SectionFeature001 = () => {
                     <Image
                       src="/zainab_asghar.jpeg"
                       alt="Zainab Asghar"
+                      unoptimized
                       layout="fill"
                       objectFit="cover"
                     />
@@ -180,6 +183,7 @@ const SectionFeature001 = () => {
                     <Image
                       src="/amna_ahmed.jpeg"
                       alt="Amna Ahmed"
+                      unoptimized
                       layout="fill"
                       objectFit="cover"
                     />

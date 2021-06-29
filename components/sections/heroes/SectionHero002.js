@@ -38,7 +38,13 @@ const SectionHero002 = () => {
             <StyledTestimonialCard>
               <StyledTestimonialImageWrapper>
                 <StyledPlaceholderWrapper themeStyle="rounded">
-                  <Image src="/mahum_zaidi.jpeg" alt="" layout="fill" objectFit="cover" />
+                  <Image
+                    src="/mahum_zaidi.jpeg"
+                    alt=""
+                    layout="fill"
+                    unoptimized
+                    objectFit="cover"
+                  />
                 </StyledPlaceholderWrapper>
               </StyledTestimonialImageWrapper>
               <StyledContentBox className="text-center">

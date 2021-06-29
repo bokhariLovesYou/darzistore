@@ -74,6 +74,7 @@ const SectionFeature002 = () => {
                         <Image
                           src="/clothing-2.jpeg"
                           alt=""
+                          unoptimized
                           layout="fill"
                           objectFit="cover"
                           objectPosition="center"
@@ -139,6 +140,7 @@ const SectionFeature002 = () => {
                         <Image
                           src="/clothing-3.jpeg"
                           alt=""
+                          unoptimized
                           layout="fill"
                           objectFit="cover"
                           objectPosition="center"
@@ -204,6 +206,7 @@ const SectionFeature002 = () => {
                         <Image
                           src="/clothing-6.jpeg"
                           alt=""
+                          unoptimized
                           layout="fill"
                           objectFit="cover"
                           objectPosition="center"
