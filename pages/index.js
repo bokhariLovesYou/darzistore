@@ -14,7 +14,10 @@ const index = () => {
     <>
       <Head>
         <title>Your Tailor on Demand | Darzi Store</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="description"
+          content="One reliable stop for all your tailoring needs, we are your friendly community darzi providing professional quality service with speed and cost efficiency."
+        ></meta>
       </Head>
       <SectionHero002 />
       <SectionFeature001 />
